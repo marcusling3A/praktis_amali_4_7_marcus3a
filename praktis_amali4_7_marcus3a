@@ -1,0 +1,11 @@
+"Ini merupakan satu program ringkas untuk mendapatkaan isipadu kuboid"
+pi = 3.142
+def kira_kuboid(tinggi, panjang, lebar):
+    isi_padu  = tinggi * panjang * lebar
+    return isipadu_kuboid
+    
+def kuboid(): 
+    tinggi = float(Input("Masukkan tinggi"))
+    panjang = float(Input("Masukkan panjang"))
+    lebar = float(Input("Masukkan lebar"))
+    print("Isipadu kuboid = "< kira_kuboid(tinggi, panjang, lebar))
